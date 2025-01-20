@@ -88,3 +88,18 @@ This project showcases a robust analysis of healthcare data, enabling data-drive
 
 
 
+
+Key Technologies and Skills
+
+Power BI,
+Power Query Editor,
+SQL(MySQL),
+Python
+
+
+
+
+
+
+
+
